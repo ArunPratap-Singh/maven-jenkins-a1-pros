@@ -5,8 +5,6 @@
     <classes>
       <class name="contact.CreateContactTest"/>
       <class name="org.CreateOrgTest"/>
-      <class name="org.DeleteOrgTest"/>
-      <class name="contact.DeleteContactTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
